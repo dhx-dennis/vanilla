@@ -19,7 +19,9 @@ For bash, python:
 # Recognition
 
 We also would really appreciate it if you gave us a quick comment plug above your Vanilla startUp command:
-```\\ Vanilla - github.com/davethomas/vanilla```
-```\\ Vanilla.startUp()```
+```
+\\ Vanilla - github.com/davethomas/vanilla
+\\ Vanilla.startUp()
+```
 
 Feel free to use Vanilla with any other existing frameworks. We won't mind! The more the merrier.
